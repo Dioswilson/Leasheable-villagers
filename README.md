@@ -1,6 +1,5 @@
 # Leasheable villagers
 
-## Setup
 
 This is a simple mod to make villagers leashable
 ## License

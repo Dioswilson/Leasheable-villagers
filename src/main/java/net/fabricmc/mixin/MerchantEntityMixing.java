@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package net.fabricmc.mixin;
 
 import net.minecraft.entity.passive.MerchantEntity;
 import net.minecraft.entity.player.PlayerEntity;

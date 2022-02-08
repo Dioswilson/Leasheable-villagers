@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "LeashableVillagers",
+  "id": "leashablevillagers",
   "version": "${1.0}",
 
   "name": "Leasheable villagers",
@@ -19,7 +19,6 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
     ]
   },
   "mixins": [
