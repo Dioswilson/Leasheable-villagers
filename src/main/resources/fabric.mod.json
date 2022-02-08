@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "LeashableVillagers",
+  "version": "${1.0}",
+
+  "name": "Leasheable villagers",
+  "description": "This mod makes villagers leashable",
+  "authors": [
+    "Dioswilson"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.example.ExampleMod"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
